@@ -4,7 +4,7 @@
 
 > Functional
 > 
-> * User should be able to get directions from one point in map to other
+> * User should be able to get optimised directions from one point in map to other
 > * Multiple routes should be suggested between the two endpoints
 > * Determining current location
 > 
